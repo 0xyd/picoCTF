@@ -1,0 +1,2 @@
+1. run "python ende.py -d flag.txt.en"
+2. copy paste the password from pw.txt to the terminal. 

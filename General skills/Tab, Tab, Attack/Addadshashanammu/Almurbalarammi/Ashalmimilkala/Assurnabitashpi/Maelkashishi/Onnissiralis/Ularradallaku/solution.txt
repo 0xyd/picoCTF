@@ -1,0 +1,2 @@
+1. Tab until the end.
+2. Catch the flag by parsing the binary with strings.

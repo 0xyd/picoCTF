@@ -1,0 +1,2 @@
+1. Dump the output by "nc mercury.picoctf.net 7449 >> test.txt"
+2. Write a simple program convert number into ASCII.
